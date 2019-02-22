@@ -29,9 +29,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.spokanevalues.com/
+  first_CTA_URL: http://www.spokanevalues.com
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.cdaspokane.com/
+  second_CTA_URL: https://www.coeurdalenespokane.com/search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.cdaspokane.com/
+    CTA_url2: https://www.coeurdalenespokane.com/search
 
 lender:
   show_section: false
