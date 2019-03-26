@@ -20,7 +20,7 @@ youtube_code: 0j_4uqEzNt8
 
 I’m sure you’ve already heard about it on the news: The Spokane real estate market is incredibly hot, but home inventory is low. **Let me demonstrate just how low it truly is.**
 
-As you can see in the video at :40, there are only 46 listings for three-bedroom homes under $200,000 in Northwest Spokane. If we take off the pending sales, there are only seven homes that aren’t under contract already.
+As you can see in the video at 0:40, there are only 46 listings for three-bedroom homes under $200,000 in Northwest Spokane. If we take off the pending sales, there are only seven homes that aren’t under contract already.
 
 {% include pullquote.html %}
 
