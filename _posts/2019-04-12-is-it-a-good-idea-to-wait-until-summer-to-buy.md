@@ -48,6 +48,6 @@ Overall, we anticipate that rates will stay fairly steady, but if they do go up,
 
 So, if the perfect house that matches all your criteria came onto the market next week, would you be excited about it? If your answer to that is “yes,” then I encourage you not to give up on the search. I understand that the lack of inventory is frustrating, but **waiting until summer or later may put you in a position where you’ll have less affordability. &nbsp;**
 
-In the end, I think you’ll be really happy that you stuck with it through this tough time. Hire a good Realtor to work hard for you and to represent your best interests, and you should be good to go.
+In the end, I think you’ll be really happy that you stuck with it through this tough time. Hire a good Realtor to work hard for you and to represent your best interests and you should be good to go.
 
 If you have any questions or need any assistance buying a home, feel free to reach out to me. I look forward to hearing from you\!<br>&nbsp;
