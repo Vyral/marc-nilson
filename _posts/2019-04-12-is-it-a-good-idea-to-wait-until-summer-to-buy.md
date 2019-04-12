@@ -22,9 +22,7 @@ youtube_code: a28jHyouQB4
 
 {% include youtube.html %}
 
-Since inventory is low right now and there aren’t many homes to choose from, homebuyers have been asking: “Should I just wait to buy a home in the summer when more homes come on the market?”
-
-<br>Really, this is a conversation that I would like to have with individual people, because the answer to that depends on what you’re going for.
+Since inventory is low right now and there aren’t many homes to choose from, homebuyers have been asking: “Should I just wait to buy a home in the summer when more homes come on the market?”<br><br>Really, this is a conversation that I would like to have with individual people, because the answer to that depends on what you’re going for.
 
 Typically, buyers fall into one of three categories:
 
@@ -36,6 +34,8 @@ If you’re looking for the best deal, the biggest questions are, “What’s ha
 
 So far, home prices have been trending upward, though they have slowed down. What, then, can we expect from the summer market?
 
+{% include pullquote.html %}
+
 Experts say that the economy is still strong and they’re anticipating home values to continue to increase steadily, getting us back to a healthy 3% to 4% appreciation.
 
 Our Spokane market is very seasonal. If we look back at the average sales price over the last six or seven years in terms of winter versus summer, we typically saw a $25,000 to $35,000 gap (with winter being lower than summer).&nbsp;
@@ -46,12 +46,8 @@ Another factor to consider is the interest rate environment—**what might happe
 
 Overall, we anticipate that rates will stay fairly steady, but if they do go up, you’ll have less buying power. That means you’ll be paying more money for the same amount of house.
 
-{% include pullquote.html %}
-
 So, if the perfect house that matches all your criteria came onto the market next week, would you be excited about it? If your answer to that is “yes,” then I encourage you not to give up on the search. I understand that the lack of inventory is frustrating, but **waiting until summer or later may put you in a position where you’ll have less affordability. &nbsp;**
 
 In the end, I think you’ll be really happy that you stuck with it through this tough time. Hire a good Realtor to work hard for you and to represent your best interests, and you should be good to go.
 
 If you have any questions or need any assistance buying a home, feel free to reach out to me. I look forward to hearing from you\!<br>&nbsp;
-
-&nbsp;
